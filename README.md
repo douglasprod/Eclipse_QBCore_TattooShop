@@ -1,4 +1,4 @@
-## [ESX]Eclipse TattooShop
+## [QBCore]Eclipse TattooShop
 
 ## Requirements
 - [QBCore](https://github.com/qbcore-framework/qb-core)
